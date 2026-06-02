@@ -1,79 +1,78 @@
-# Omkar Sharma
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SwapnilRao619.SwapnilRao619" />
 
-<h2 align="center">About me</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swapnil+Rao!;" />
+</h1>
 
-```golang
-package main
+[![An image of @swapnilrao619's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oomayyyyy)](https://holopin.io/@oomayyyyy)
 
-import (
-	"fmt"
-)
+<h3 align="center">Undergraduate from MSRIT exploring CS domains!</h3>
 
-type Bio map[string]string
+<br/>
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+<div align="center">
+ 
+🌱 I’m currently learning **Trying to untangle DSA, speaking fluent Python, making friends with MongoDB, surviving the MERN stack, and pretending TOC isn’t melting my brain.**
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "Full-time music sponge, part-time bookworm, fun-loving coder, and certified nature enthusiast—currently juggling bugs, beats, and beautiful sunsets in Bengaluru.",
-		"- 🔭 I’m currently studying":      "Computer Science and Engineering (Cyber Security) at MSRIT",
-		"- 🌱 I’m currently learning":       "Trying to untangle DSA, speaking fluent Python, making friends with MongoDB, surviving the MERN stack, and pretending TOC isn’t melting my brain.",
-		"- 👯 I’m looking to collaborate on": "Projects that push my learning curve and give me real-world experience",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, DSA, C/C++, Java, MongoDB, SQL",
-		"- 📫 How to reach me:":              "https://github.com/oomayyyyy#you-can-reach-me-at-alien",
-	}
-}
-```
+📫 How to reach me **omkarsharmadahal10@gmail.com**
 
-<h2 align="center">You can reach me at :alien:</h2>
+📄 My profile: [Omkar Sharma's Profile](https://www.linkedin.com/in/omkar-sharma-a47058303/)
 
-<p align="center">
-  <a href="https://dev.to/oomayyyyy">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Omkar Sharma's DEV Profile" height="30" width="30">
-  </a>
+<!--⚡ Fun fact **I also make and produce music**-->
 
-  <a href="https://linkedin.com/in/omkar-sharma-a47058303">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Omkar Sharma's LinkedIn Profile" height="30" width="30">
-  </a>
+ </div>
+ 
+<div align="center">
 
-  <a href="https://stackoverflow.com/users/18748670/oomayyyy">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Omkar Sharma's Stack Overflow Profile" height="30" width="30">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-sharma-a47058303/)
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/oomayyyyy)
+ 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/copyninjakakashihaatke/)
+ 
+<!--[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4M3jE2fH4P)-->
+ 
+<!--[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@swapnilrao9881/videos)-->
+ 
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)(https://open.spotify.com/user/31h54v22qdge7bldee55bikfo6ym?si=15da07663dcc437c)
+ 
+<!--[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SwapnilRao619)-->
 
-  <a href="https://meta.stackexchange.com/users/1907442/oomayyyy">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Omkar Sharma's Stack Exchange Profile" height="30" width="30">
-  </a>
+</div>
 
-  <a href="https://stackshare.io/copyninjakakashihaatke/personal-stack">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Omkar Sharma's StackShare Profile" height="30" width="30">
-  </a>
-</p>
+ <hr/>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with in the past</p>
-<p align="center">
-  <a href="https://stackshare.io/copyninjakakashihaatke/personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Omkar Sharma's :: StackShare" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=c,java,python,r,js,html,css,matlab,mongodb,mysql" />
+<br />
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,pytorch,tensorflow,sklearn,git,docker" />
+<br />
+<img src="https://skillicons.dev/icons?i=linux,vscode,vim,postman" />
+<br />
+<br />
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{oomayyyyy}/count.svg" alt="oomayyyyy :: Visitor's Count" /></p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+<img src="https://img.shields.io/badge/Quantum_Liboqs-000000?style=for-the-badge&logo=atom&logoColor=white" />
+<br />
 
-<h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oomayyyyy&langs_count=10&theme=tokyonight&layout=compact" alt="oomayyyyy :: Top Langs" /></p>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-4A90E2?style=for-the-badge&logo=owasp&logoColor=white" />
+<br />
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=oomayyyyy&show_icons=true&theme=synthwave" alt="oomayyyyy :: Profile Stats" /></p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeQL-2F363D?style=for-the-badge&logo=github&logoColor=white" />
 
----
+</div>
 
-⭐️ From [@oomayyyyy](https://github.com/oomayyyyy)
+<br/>
+<hr/>
