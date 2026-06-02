@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SwapnilRao619.SwapnilRao619" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=oomayyyyy.visitor-badge&left_text=visitors&format=true&logo=github" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swapnil+Rao!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omkar+Sharma!;" />
 </h1>
 
 [![An image of @swapnilrao619's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oomayyyyy)](https://holopin.io/@oomayyyyy)
