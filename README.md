@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omkar+Sharma!;" />
 </h1>
 
-[![An image of @swapnilrao619's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oomayyyyy)](https://holopin.io/@oomayyyyy)
+[![An image of @oomayyyyy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oomayyyyy)](https://holopin.io/@oomayyyyy)
 
 <h3 align="center">Undergraduate from MSRIT exploring CS domains!</h3>
 
@@ -34,7 +34,8 @@
  
 <!--[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@swapnilrao9881/videos)-->
  
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)(https://open.spotify.com/user/31h54v22qdge7bldee55bikfo6ym?si=15da07663dcc437c)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]
+(https://open.spotify.com/user/31h54v22qdge7bldee55bikfo6ym?si=6e08c7ee7073429d)
  
 <!--[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SwapnilRao619)-->
 
