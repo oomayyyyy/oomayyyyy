@@ -34,8 +34,8 @@
  
 <!--[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@swapnilrao9881/videos)-->
  
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]
-(https://open.spotify.com/user/31h54v22qdge7bldee55bikfo6ym?si=6e08c7ee7073429d)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31h54v22qdge7bldee55bikfo6ym?si=6e08c7ee7073429d)
+
  
 <!--[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SwapnilRao619)-->
 
