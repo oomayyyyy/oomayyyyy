@@ -55,7 +55,7 @@
 <img src="https://skillicons.dev/icons?i=linux,vscode,vim,postman" />
 <br />
 <br />
-
+<!--
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeQL-2F363D?style=for-the-badge&logo=github&logoColor=white" />
-
+-->
 </div>
 
 <br/>
