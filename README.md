@@ -20,8 +20,8 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "Full-time music sponge, part-time bookworm, fun-loving coder, and certified nature enthusiast—currently juggling bugs, beats, and beautiful sunsets in Bengaluru.",
-		"- 🔭 I’m currently studying":        "Computer Science and Engineering (Cyber Security) at MSRIT",
-		"- 🌱 I’m currently learning":        "Trying to untangle DSA, speaking fluent Python, making friends with MongoDB, surviving the MERN stack, and pretending TOC isn’t melting my brain.",
+		"- 🔭 I’m currently studying":      "Computer Science and Engineering (Cyber Security) at MSRIT",
+		"- 🌱 I’m currently learning":       "Trying to untangle DSA, speaking fluent Python, making friends with MongoDB, surviving the MERN stack, and pretending TOC isn’t melting my brain.",
 		"- 👯 I’m looking to collaborate on": "Projects that push my learning curve and give me real-world experience",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, DSA, C/C++, Java, MongoDB, SQL",
